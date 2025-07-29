@@ -1,8 +1,10 @@
 # ResumeAnalyzerProject
 Through this project, users will be able to develop an application or interface that uses AI to track the ATS score of ther resumes, determine if they are a good fit for a particular job opening, and get other helpful tips.
 
+**Deployed in Streamlit** https://resumeanalyzerprojectbydhivya.streamlit.app/
+
 ## Idea behind the application:
-- This will be a web interface hosted on streamlit. Link for the published streamlit project here:
+- This will be a web interface hosted on streamlit. 
 - The user will be able to upload their resume in this application, and ask the AI model to analyze their resume against a job description pasted/provided
 - User should also be able to ask follow-up questions
 - The AI model used here is *gemini-1.5-flash*
